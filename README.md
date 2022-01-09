@@ -2,7 +2,4 @@ This is a Small Python Project that i am planning to deploy on Azure Web App.
 
 This Project creates Any Number's Table by input taken from the User. 
 
-
-<p>
-    <img src="G:/VS Code/TablebyPython/TablesbyPythonScreenshot.PNG?raw=true" width="220" height="240" />
-</p>
+![TablesbyPythonScreenshot](https://user-images.githubusercontent.com/85139752/148701157-da2433c7-ece3-4aa5-91a6-a5c534b96cc3.PNG)
